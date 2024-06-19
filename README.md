@@ -5,11 +5,11 @@ The purpose of this project is to utilize digital fabrication techniques to crea
 ## Background
 ![image](https://hackmd.io/_uploads/SkpWounoT.png)
 
-> [name=Francisca]**Francisca:** I am interested in wearables, jewelry, and design products that go hand in hand with digital fabrication and modern craftsmanship. My personal approach to design is to make the process fun and enjoyable, with the intention that the final pieces can be worn in a punk/queer-related environment. 
+>**Francisca:** I am interested in wearables, jewelry, and design products that go hand in hand with digital fabrication and modern craftsmanship. My personal approach to design is to make the process fun and enjoyable, with the intention that the final pieces can be worn in a punk/queer-related environment. 
 This project aligns perfectly with my intentions because working with trash fit with my view of independence and reinforces the statement of my personal goals
 
 
-> [name=Minnie]I am doing interventions mainly with material waste. I am exploring the topics of climate conscience, "waste colonization", and how we might re-define and re-emphasize collective care. In doing the challenge, we used already discarded material from what we've personally collected, from a cafe and the Fablab.
+>**Minnie:** I am doing interventions mainly with material waste. I am exploring the topics of climate conscience, "waste colonization", and how we might re-define and re-emphasize collective care. In doing the challenge, we used already discarded material from what we've personally collected, from a cafe and the Fablab.
 
 ## Summary
 In this document, you will find our different explorations on working with plastic bags, bottle caps and other "trash" materials and also with bioresin. We were able to create hard and flexible samples.
@@ -133,17 +133,17 @@ As a quick way for prototyping with resin and trash, we used pine resin and some
  ![WhatsApp Image 2024-02-16 at 7.04.04 AM (1)](https://hackmd.io/_uploads/SyQsOpni6.jpg)
 
 ## Files
-![image](https://hackmd.io/_uploads/SJ5BD0nj6.png =250x)
+![image](https://hackmd.io/_uploads/SJ5BD0nj6.png)
 
 [Funky shapes for test cutting](https://drive.google.com/file/d/1DvHTgqEgBEoVl7mGNUL5KjwJDltlEYOU/view?usp=drive_link)
 
-![image](https://hackmd.io/_uploads/S1vRP03sa.png  =250x)
+![image](https://hackmd.io/_uploads/S1vRP03sa.png)
 [Long pattern for test cutting](https://drive.google.com/file/d/1DvHTgqEgBEoVl7mGNUL5KjwJDltlEYOU/view?usp=drive_link)
 
-![image](https://hackmd.io/_uploads/BJSXdA3jp.png  =250x)
+![image](https://hackmd.io/_uploads/BJSXdA3jp.png)
 [3D model for thermoforming test](https://drive.google.com/file/d/1odmczWKzEJfLNmwDG_gJr6PE5oSnGilX/view?usp=drive_link)
 
-![image](https://hackmd.io/_uploads/S185uRhs6.png  =250x)
+![image](https://hackmd.io/_uploads/S185uRhs6.png)
 [Tile for vinyl cutter](https://drive.google.com/file/d/1rzKI8U1oaYqM3TSVLi00A76wqqkMwyy2/view?usp=drive_link)
 
 ## Outputs
@@ -174,19 +174,19 @@ We also want to explore parametric design in creating tileable/connectable piece
 
 ## References
 
-![Screenshot 2024-02-16 145823](https://hackmd.io/_uploads/S16HqypjT.png =300x)
+![Screenshot 2024-02-16 145823](https://hackmd.io/_uploads/S16HqypjT.png)
 Mì Tôm Xanh is an organization that recycles noodle wraps into multi-functional products. 
 https://distributeddesign.eu/talent/mi-tom-xanh/
 
-![image](https://hackmd.io/_uploads/ryPJc1psa.png =300x)
+![image](https://hackmd.io/_uploads/ryPJc1psa.png)
 
 Open source textile designs at fabricademy https://oscircularfashion.com/
 
-![image](https://hackmd.io/_uploads/B1_KcJasp.png =300x)
+![image](https://hackmd.io/_uploads/B1_KcJasp.png)
 Mary Ann Williams
 https://www.textileartist.org/mary-ann-williams-interview-a-textile-system-builder/
 
-![image](https://hackmd.io/_uploads/Bk9s2JTo6.png =300x)
+![image](https://hackmd.io/_uploads/Bk9s2JTo6.png)
 [Pine resin tutorial](https://youtu.be/srAiCIu2Y3o?si=gBSzmLUCASDF5NWu)
 
 ## Authors
@@ -195,4 +195,3 @@ https://panchipunchi.github.io/MDEF-Francisca/
 
 ###  Minnie
 https://minnie-at-iaac.github.io/
-> [name=Emmanuelle Pangilinan]
